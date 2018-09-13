@@ -1,0 +1,28 @@
+_repo: The-Golden-Gems-of-Life-Or-Gathered-Jewels-for-the-Home-Circle_51374
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Allen, Emory Adams
+    alias: Allen, E. A. (Emory Adams)
+    birthdate: 1853
+    gutenberg_agent_id: '1058'
+    url: http://www.gutenberg.org/2009/agents/1058
+  - agent_name: Ferguson, Smith C.
+    alias: Ferguson, S. C.
+    gutenberg_agent_id: '46385'
+    url: http://www.gutenberg.org/2009/agents/46385
+description: ''
+gutenberg_issued: '2016-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'BJ'
+- GITenberg
+title: The Golden Gems of Life; Or, Gathered Jewels for the Home Circle
+url: http://www.gutenberg.org/ebooks/51374
